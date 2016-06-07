@@ -1,0 +1,18 @@
+{
+  "name": "stego",
+  "version": "1.0.0",
+  "description": "Network Security Assignment",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootswatch": "^3.3.6",
+    "gulp-watch": "^4.3.6",
+    "jquery": "^2.2.4",
+    "webpack": "^1.13.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
